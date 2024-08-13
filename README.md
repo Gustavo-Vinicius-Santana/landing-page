@@ -6,7 +6,6 @@ Este é um projeto front-end desenvolvido com [Next.js](https://nextjs.org/), qu
 
 - **Apresentação da Empresa**: Exibe uma visão geral da empresa com informações principais e destaques.
 - **Serviços**: Seção dedicada aos serviços oferecidos pela empresa.
-- **Contato**: Formulário para que os visitantes entrem em contato com a empresa.
 - **Design Responsivo**: Adaptável a diferentes tamanhos de tela e dispositivos.
 
 ## Tecnologias Utilizadas
